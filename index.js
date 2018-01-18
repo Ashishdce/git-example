@@ -7,3 +7,7 @@ function a() {
 function b() {
     return;
 }
+
+function c() {
+    return;
+}
