@@ -1,7 +1,7 @@
 laksjfdlksadf
 
-function a() {
-    return 3;
+function a(c, b) {
+    return c + b;
 }
 
 function b() {
